@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_WCrYwcYCEeyTmoWo8FGLNQ" label="PublicProject" description="" language="java" technicalLabel="PUBLICPROJECT" creationDate="2022-04-27T08:08:40.098+0000" author="_WCrYwsYCEeyTmoWo8FGLNQ" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/amalbeny/training3.0222222222222222222.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_WCrYwcYCEeyTmoWo8FGLNQ" label="PublicProject" description="" language="java" technicalLabel="PUBLICPROJECT" creationDate="2022-04-27T08:08:40.098+0000" author="_WCrYwsYCEeyTmoWo8FGLNQ" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/amalbeny/training3.0222222222222222222.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_Wj_WEMYCEeyTmoWo8FGLNQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_WCrYwsYCEeyTmoWo8FGLNQ" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_d9FqkMYCEeyTmoWo8FGLNQ" login="dev1@company.com" firstName="Dev1" lastName="Dev1" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
